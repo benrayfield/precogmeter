@@ -1,6 +1,8 @@
 # precogmeter
 Continuously measure your precognitive skill by moving the mouse competing against randomness to raise the wave - feels like trading stocks really fast
 
+<img src="https://github.com/benrayfield/precogmeter/blob/master/images/precogmeter_0.1.png?raw=true"/>
+
 This text needs updating since the math isnt there yet but its still useful for measuring precog, just not normalized onto a constant bell curve yet.
 
 Move the mouse up and down in this panel, competing against randomness,
